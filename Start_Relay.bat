@@ -1,0 +1,1 @@
+java -Djava.library.path=lwjgl-2.9.3/native/windows/ -jar AudioRelay.jar

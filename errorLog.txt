@@ -1,0 +1,7 @@
+
+*********************************************************
+2015-08-26T19:42:33Z Logging started
+2015-08-26T19:42:33Z [ERR] {java.lang.Thread.getStackTrace(Unknown Source)} java.lang.NullPointerException
+2015-08-26T19:42:33Z [ERR] {java.lang.Thread.getStackTrace(Unknown Source)} 	at com.dsp.audiorelay.AudioRecorder.<init>(AudioRecorder.java:55)
+2015-08-26T19:42:33Z [ERR] {java.lang.Thread.getStackTrace(Unknown Source)} 	at com.dsp.audiorelay.AudioRelayServer.run(AudioRelayServer.java:28)
+2015-08-26T19:42:33Z [ERR] {java.lang.Thread.getStackTrace(Unknown Source)} 	at java.lang.Thread.run(Unknown Source)
