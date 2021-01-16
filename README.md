@@ -9,7 +9,7 @@ You can find the paper for this GitHub repository : https://asa.scitation.org/do
 
 ## Users Guides
 
-[iOS](https://github.com/ssprl/Hearing-test-simulator-GUI-for-clinical-testing/Optimizerv2-User-Guide.pdf)
+[MATLAB GUI](https://github.com/ssprl/Hearing-test-simulator-GUI-for-clinical-testing/blob/main/Optimizerv2-User-Guide.pdf)
 
 ## Requirements 
 - MATLAB 2016a or higher
